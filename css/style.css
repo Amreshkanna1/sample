@@ -799,10 +799,10 @@ ul.menu-left.collapse {
 @media (min-width: 320px) {
   #wrapper {
     background-size: 555%;
-    height: 550px;
+    height: 800px;
   }
   .overlay {
-    height: 550px;
+    height: 800px;
   }
     .logo img{
       width: 50px;   
